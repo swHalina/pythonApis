@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+env/
+.env
+*.sqlite3
+
+# Static files
+staticfiles/
+
+# Log files
+logs/
+
+# Secret keys
+*.key
+
+# Other files
+media/
+*.pyc
